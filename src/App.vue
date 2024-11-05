@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import answers from '/src/assets/answers.json';
+import answers from '/public/answers.json';
 
 export default {
   data() {
