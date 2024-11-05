@@ -33,11 +33,13 @@ export default {
   text-align: center;
   margin-top: 50px;
 }
+
 input {
   margin-bottom: 20px;
   padding: 10px;
   width: 300px;
 }
+
 button {
   padding: 10px 20px;
   cursor: pointer;
